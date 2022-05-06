@@ -35,3 +35,4 @@ def pttSOCK(url):
     else:
         return
     pttNBA('https://www.ptt.cc/bbs/Stock/index.html')
+    print('OK')
